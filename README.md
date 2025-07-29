@@ -153,36 +153,6 @@
         <a href="SECURITY.md">Security Policy</a>
       </div>
     
-          let slides = document.querySelectorAll(".slideshow .slide"); // More specific selector
-          let currentIndex = 0; // Changed 'index' to 'currentIndex' for clarity
-
-          function showSlide(idx) { // Added idx parameter
-              slides.forEach((slide, i) => {
-                  // Using a class to control visibility is often better than direct style manipulation
-                  if (i === idx) {
-                      slide.classList.add('active');
-                  } else {
-                      slide.classList.remove('active');
-                  }
-              });
-          }
-
-          // Removed mudarSlide function as autoSlide handles next
-          // If manual controls (prev/next buttons) were added, mudarSlide would be useful.
-
-          function autoSlide() {
-              currentIndex = (currentIndex + 1) % slides.length;
-              showSlide(currentIndex);
-          }
-
-          if (slides.length > 0) { // Only run if slides exist
-            showSlide(currentIndex); // Exibe a primeira imagem
-            setInterval(autoSlide, 3000); // Troca automática a cada 3 segundos
-          }
-      </script>
-    </section>
-
-
   <footer>
    @tukarth - Todos os direitos reservados. &copy; 2025
   </footer>
