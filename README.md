@@ -135,17 +135,16 @@
 
   <header>
 
-  </header>
-
   <main>
     <section>
       <h2>Projetos em Destaque</h2>
-      <p>
-         Este site apresenta projetos acadêmicos de forma simples, visual e organizada. A ideia é compartilhar soluções criativas e inspirar novas ideias.
-      </p>
-      <p>
-        📁 Para acessar os projetos, envie uma solicitação pelo Google Drive ou entre em contato: <a href="mailto:arthur.oliveira99@cs.brazcubas.edu.br" style="color: #1abc9c; text-decoration: none;">arthur.oliveira99@cs.brazcubas.edu.br</a>
-      </p>
+    
+        <p>
+  Este site reúne projetos acadêmicos desenvolvidos em colaboração com outros colegas da Universidade Braz Cubas. A proposta é apresentar ideias criativas de forma simples, visual e organizada, promovendo a troca de conhecimento.
+</p>
+<p>
+  📁 Para acessar os projetos, envie uma solicitação pelo Google Drive ou entre em contato: <a href="mailto:arthur.oliveira99@cs.brazcubas.edu.br" style="color: #1abc9c; text-decoration: none;">arthur.oliveira99@cs.brazcubas.edu.br</a>
+</p>
       
       <div class="buttons">
         <a href="https://tukarth.github.io/Zyx/" target="_blank" rel="noopener noreferrer">🔗 Acesso Zyx</a>
@@ -154,8 +153,6 @@
         <a href="SECURITY.md">Security Policy</a>
       </div>
     
-  
-      <script>
           let slides = document.querySelectorAll(".slideshow .slide"); // More specific selector
           let currentIndex = 0; // Changed 'index' to 'currentIndex' for clarity
 
@@ -191,5 +188,3 @@
   </footer>
 
   <!-- O script redundante que estava aqui foi removido -->
-
-# arthur
