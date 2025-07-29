@@ -150,8 +150,7 @@
         <a href="https://tukarth.github.io/Zyx/" target="_blank" rel="noopener noreferrer">🔗 Acesso Zyx</a>
       <div class="buttons">
         <a href="https://drive.google.com/drive/folders/1bJ27rtxhDxfna8sEtnO4MQNsp3kygkso?usp=sharing" target="_blank" rel="noopener noreferrer">🔗 Acesso Projetos</a>
-        <a href="SECURITY.md">Security Policy</a>
-      </div>
+        
     
   <footer>
    @tukarth - Todos os direitos reservados. &copy; 2025
