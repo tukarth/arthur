@@ -140,11 +140,11 @@
       <h2>Projetos em Destaque</h2>
     
         <p>
-  Este site reúne projetos acadêmicos desenvolvidos em colaboração com outros colegas da Universidade Braz Cubas. A proposta é apresentar ideias criativas de forma simples, visual e organizada, promovendo a troca de conhecimento.
-</p>
-<p>
-  📁 Para acessar os projetos, envie uma solicitação pelo Google Drive ou entre em contato: <a href="mailto:arthur.oliveira99@cs.brazcubas.edu.br" style="color: #1abc9c; text-decoration: none;">arthur.oliveira99@cs.brazcubas.edu.br</a>
-</p>
+  <p>Este site reúne projetos acadêmicos de Logística desenvolvidos em colaboração com colegas da Universidade Braz Cubas. A proposta é apresentar ideias criativas de forma simples, visual e organizada, promovendo a troca de conhecimento.</p>
+
+<p>🔐 Projetos com acesso controlado devido à proteção de dados e direitos de imagem.</p>
+
+<p>📁 Para acessar os projetos, envie uma solicitação pelo Google Drive ou entre em contato: <a href="mailto:arthur.oliveira99@cs.brazcubas.edu.br">arthur.oliveira99@cs.brazcubas.edu.br</a></p>
       
       <div class="buttons">
         <a href="https://tukarth.github.io/Zyx/" target="_blank" rel="noopener noreferrer">🔗 Acesso Zyx</a>
